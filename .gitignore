@@ -1,0 +1,12 @@
+*.egg-info
+*local.json
+__pycache__
+*ipynb_checkpoints
+mlruns
+data
+results
+tests
+*.txt
+logs
+checkpoint
+*.ipynb
